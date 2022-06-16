@@ -2,6 +2,7 @@
 > Simple to create your QR_code
 
 製作屬於自己的QR Code，可以節省輸入網址的時間，方便用於自我介紹或是推廣相關網站。
+詳情參考：https://medium.com/@emma_ling/%E7%94%A8python%E5%81%9Aqrcode-86bfabab832d
 
 ## 環境要求
 1. Python
